@@ -15,3 +15,5 @@ Input horizontally and sequentially in the input box:地编作者是始终还是
 ![游戏截图](./windows/IMG_20260504_114041.jpg)
 five
 ![游戏截图](./windows/IMG_20260504_114438.jpg)
+six
+![游戏截图](./windows/IMG_20260504_114626.jpg)
