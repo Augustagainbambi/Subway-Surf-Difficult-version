@@ -24,6 +24,8 @@ Import the level into the corresponding directory
 windows：C:/users/Your Name/AppData/LocalLow/Szhst/Subway Surf Editor/EditorMaps
 Android：/storage/emulated/0/Android/data/com.Szhst.SubwaySurfEditor/files/EditorMaps/               
 Import the level into this directory
+eight               
+go back to Subway Surf Editor
 
 
 
