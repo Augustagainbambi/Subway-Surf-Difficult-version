@@ -30,6 +30,8 @@ nine
 Click the input box circled in red to enter the level name           
 Then click on the green circle
 ![游戏截图](./windows/IMG_20260504_115939.jpg)
+ten
+![游戏截图](./windows/IMG_20260504_120519.jpg)
 
 
 
