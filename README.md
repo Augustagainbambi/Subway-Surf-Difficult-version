@@ -6,3 +6,5 @@ How to start using
 tutorial（Click on the circled area）        
 one
 ![游戏截图](./windows/IMG_20260504_113157.jpg)
+two
+![游戏截图](./windows/IMG_20260504_113222.jpg)
