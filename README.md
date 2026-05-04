@@ -8,3 +8,5 @@ one
 ![游戏截图](./windows/IMG_20260504_113157.jpg)
 two（Here, waiting time is required）
 ![游戏截图](./windows/IMG_20260504_113222.jpg)
+three
+![游戏截图](./windows/IMG_20260504_113254.jpg)
