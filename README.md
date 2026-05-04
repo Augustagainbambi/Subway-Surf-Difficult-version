@@ -25,7 +25,11 @@ windows：C:/users/Your Name/AppData/LocalLow/Szhst/Subway Surf Editor/EditorMap
 Android：/storage/emulated/0/Android/data/com.Szhst.SubwaySurfEditor/files/EditorMaps/               
 Import the level into this directory
 eight               
-go back to Subway Surf Editor
+go back to Subway Surf Editor         
+nine                  
+Click the input box circled in red to enter the level name           
+Then click on the green circle
+![游戏截图](./windows/IMG_20260504_115939.jpg)
 
 
 
