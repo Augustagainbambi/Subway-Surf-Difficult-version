@@ -33,6 +33,10 @@ Then click on the green circle
 ![游戏截图](./windows/IMG_20260504_115939.jpg)
 ten
 ![游戏截图](./windows/IMG_20260504_120519.jpg)
+Question 1:What if there is no EditorMaps folder        
+Answer: Create the EditorMaps folder     
+Question 2: What should I do if the level cannot be loaded after being placed in the EditorMaps folder?     
+Answer: Delete other versions or clear game data
 
 声名：地编作者是始终还是它
 
